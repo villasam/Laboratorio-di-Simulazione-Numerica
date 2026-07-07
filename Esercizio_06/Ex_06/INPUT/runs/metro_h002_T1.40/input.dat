@@ -1,0 +1,7 @@
+SIMULATION_TYPE        2  1.0  0.02
+RESTART                0
+TEMP                   1.40
+NPART                  50
+NBLOCKS                50
+NSTEPS                 20000
+ENDINPUT

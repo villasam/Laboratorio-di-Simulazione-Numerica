@@ -1,0 +1,13 @@
+SIMULATION_TYPE        0
+RESTART                0
+CONFIG_MODE            FCC_HALF_BOX
+INIT_VELOCITIES        DELTA_AXES
+TEMP                   2.0
+NPART                  108
+RHO                    0.05
+R_CUT                  5.0
+DELTA                  0.001
+NBLOCKS                1
+NSTEPS                 1
+
+ENDINPUT

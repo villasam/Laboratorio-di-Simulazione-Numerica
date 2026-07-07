@@ -1,0 +1,15 @@
+NCITIES          34
+NPOPULATION      1000
+NGENERATIONS     1000
+
+PCROSSOVER       0.80
+PSWAP            0.10
+PINVERSION       0.10
+PSHIFT           0.10
+PBLOCKSWAP       0.10
+
+MIGRATION        1
+N_MIGR           50
+
+PROBLEM_NAME     square
+MAP_FILE         INPUT/cities_square.dat

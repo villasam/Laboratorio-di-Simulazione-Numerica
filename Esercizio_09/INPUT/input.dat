@@ -1,0 +1,17 @@
+NCITIES          34
+NPOPULATION      1000
+NGENERATIONS     10000
+
+PCROSSOVER       0.8
+PSWAP            0.1
+PINVERSION       0.1
+PSHIFT           0.1
+PBLOCKSWAP       0.1
+
+MAP_FILE         ../INPUT/cities_square.dat
+
+PROGRESS_FILE    ../OUTPUT/progress_square.dat
+
+BEST_PATH_FILE   ../OUTPUT/best_path_square.dat
+
+BEST_COORD_FILE  ../OUTPUT/best_path_coordinates_square.dat

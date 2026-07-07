@@ -1,0 +1,13 @@
+SIMULATION_TYPE        0
+RESTART                1
+CONFIG_MODE            STANDARD
+INIT_VELOCITIES        MAXWELL
+TEMP                   2.0
+NPART                  108
+RHO                    0.05
+R_CUT                  5.0
+DELTA                  0.001
+NBLOCKS                25
+NSTEPS                 200
+
+ENDINPUT
